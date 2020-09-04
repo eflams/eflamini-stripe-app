@@ -8,7 +8,7 @@ In the project directory, you can test the app by running this command:
 This will runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-If you run into any issues, try running `npm install` before running again with `npm start` 
+If you run into issues with `npm start` , try running `npm install` before attempting again with `npm start` 
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
